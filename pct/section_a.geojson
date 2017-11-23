@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "CA Sec A"
+                "name": "ca-sec-a"
             },
             "geometry": {
                 "type": "LineString",
